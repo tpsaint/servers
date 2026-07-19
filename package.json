@@ -23,7 +23,7 @@
     "@modelcontextprotocol/server-everything": "*",
     "@modelcontextprotocol/server-memory": "*",
     "@modelcontextprotocol/server-filesystem": "2025.7.1",
-    "@modelcontextprotocol/server-sequential-thinking": "*"
+    "@modelcontextprotocol/server-sequential-thinking": "2025.11.25"
   },
   "overrides": {
     "qs": ">=6.15.2",
